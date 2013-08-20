@@ -5,8 +5,8 @@ Card Trick Game: HEARTS
 
 Written in: Python
 
-661 lines of code
-80+ hours to complete
+661 lines of code, 
+80+ hours to complete, 
 difficulty level: Intermediate
 
 
